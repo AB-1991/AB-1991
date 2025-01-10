@@ -3,7 +3,7 @@
 - 🌱 I’m currently making small programs in Java for fun.
 - 💞️ I’m looking to collaborate on building software applications and testing them.
 - 📫 you can reach out to me on mabundaabbiej@gmail.com or 083 8725 542
-- 😄 Pronouns: Mr
+- 😄 Pronouns: He
 - ⚡ Fun fact: I decided to start coding again last year December, but already addicted to coding.
 
 <!---
